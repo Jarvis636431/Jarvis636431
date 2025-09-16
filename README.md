@@ -22,7 +22,8 @@
 ```typescript
 const jarvis = {
     name: "Jarvis",
-    role: "Full Stack Developer",
+    school：“Tianjin University”
+    role: "Undergraduate / Full Stack Developer",
     location: "China 🇨🇳",
     languages: ["JavaScript", "TypeScript", "Python", "Go", "Dart"],
     interests: ["Web Development", "AI/ML", "Open Source", "Tech Innovation"],
@@ -39,8 +40,8 @@ const jarvis = {
 ### 💻 Languages
 <img src="https://skillicons.dev/icons?i=js,ts,dart,python,java,go,rust,cpp,html,css,sass" />
 
-### 🌐 Franeworks
-<img src="https://skillicons.dev/icons?i=flutter,react,vue,tailwind,nodejs,django,fastapi,spring," />
+### 🌐 Frameworks
+<img src="https://skillicons.dev/icons?i=flutter,react,vue,tailwind,nodejs,django,fastapi,spring" />
 
 ### 🗄️ DataBase
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite" />
