@@ -24,10 +24,9 @@ const jarvis = {
     name: "Jarvis",
     role: "Full Stack Developer",
     location: "China 🇨🇳",
-    languages: ["JavaScript", "TypeScript", "Python", "Java"],
+    languages: ["JavaScript", "TypeScript", "Python", "Go", "Dart"],
     interests: ["Web Development", "AI/ML", "Open Source", "Tech Innovation"],
-    currentFocus: "Building amazing web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    funFact: "I'm An Apex Master 😄 "
 };
 ```
 
@@ -38,26 +37,25 @@ const jarvis = {
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,go,rust,cpp" />
+<img src="https://skillicons.dev/icons?i=js,ts,dart,python,java,go,rust,cpp,html,css,sass" />
 
 ### 🌐 Franeworks
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,html,css,sass,tailwind,nodejs,express,django,fastapi,spring,nestjs" />
-
+<img src="https://skillicons.dev/icons?i=flutter,react,vue,gin,tailwind,nodejs,koa,django,fastapi,spring," />
 
 ### 🗄️ DataBase
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite" />
 
 ### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 
 ### 🔧 Tools
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,vscode,Webstorm,Pycharm,IDEA" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,vscode,webstorm,pycharm" />
 
 </div>
 
 ---
 
-## 📊 GitHub 统计
+## 📊 GitHub Statistic
 
 <div align="center">
   
@@ -77,7 +75,7 @@ const jarvis = {
 
 ---
 
-## 🏆 GitHub 成就
+## 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jarvis636431&theme=tokyonight&no-frame=true&row=1&column=7" />
@@ -85,19 +83,19 @@ const jarvis = {
 
 ---
 
-## 🚀 精选项目
+## 🚀 Star Projects
 
 <div align="center">
 
 <!-- 替换为你的实际项目 -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jarvis636431&repo=awesome-project-1&theme=tokyonight&hide_border=true)](https://github.com/Jarvis636431/awesome-project-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jarvis636431&repo=awesome-project-2&theme=tokyonight&hide_border=true)](https://github.com/Jarvis636431/awesome-project-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jarvis636431&repo=awesome-project-1&theme=tokyonight&hide_border=true)](https://github.com/twtstudio/WePeiYang-Flutter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jarvis636431&repo=awesome-project-2&theme=tokyonight&hide_border=true)](https://github.com/Jarvis636431/iDesign-2025)
 
 </div>
 
 ---
 
-## 📈 活动图表
+## 📈 Activities
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jarvis636431&theme=tokyo-night&hide_border=true" />
@@ -105,7 +103,7 @@ const jarvis = {
 
 ---
 
-## 📫 联系我
+## 📫 Contact Me
 
 <div align="center">
   
@@ -136,7 +134,7 @@ const jarvis = {
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-** Thanks！**  
+**Thanks**  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
