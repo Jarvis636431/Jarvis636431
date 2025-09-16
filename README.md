@@ -40,7 +40,7 @@ const jarvis = {
 <img src="https://skillicons.dev/icons?i=js,ts,dart,python,java,go,rust,cpp,html,css,sass" />
 
 ### 🌐 Franeworks
-<img src="https://skillicons.dev/icons?i=flutter,react,vue,gin,tailwind,nodejs,koa,django,fastapi,spring," />
+<img src="https://skillicons.dev/icons?i=flutter,react,vue,tailwind,nodejs,django,fastapi,spring," />
 
 ### 🗄️ DataBase
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite" />
