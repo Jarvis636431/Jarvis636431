@@ -17,7 +17,7 @@
 
 ---
 
-## 🙋‍♂️ 关于我
+## 🙋‍♂️ About Me
 
 ```typescript
 const jarvis = {
@@ -31,35 +31,27 @@ const jarvis = {
 };
 ```
 
-- 🔭 目前正在开发一些有趣的项目
-- 🌱 持续学习新技术和最佳实践
-- 👯 乐于合作开源项目
-- 💬 欢迎讨论技术话题
-- ⚡ 有趣的事实：热爱编程，也热爱生活
-
 ---
 
-## 🛠️ 技术栈
+## 🛠️ Stacks
 
 <div align="center">
 
-### 💻 编程语言
+### 💻 Languages
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,go,rust,cpp" />
 
-### 🌐 前端开发
-<img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,html,css,sass,tailwind" />
+### 🌐 Franeworks
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,nuxtjs,html,css,sass,tailwind,nodejs,express,django,fastapi,spring,nestjs" />
 
-### ⚙️ 后端开发
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,spring,nestjs" />
 
-### 🗄️ 数据库
+### 🗄️ DataBase
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite" />
 
-### ☁️ 云服务 & DevOps
+### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins" />
 
-### 🔧 工具 & 平台
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman" />
+### 🔧 Tools
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,vscode,Webstorm,Pycharm,IDEA" />
 
 </div>
 
@@ -117,7 +109,7 @@ const jarvis = {
 
 <div align="center">
   
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mengda636431@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Blog](https://img.shields.io/badge/Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://yourblog.com)
@@ -127,9 +119,7 @@ const jarvis = {
 
 ---
 
-## 💝 支持我的工作
-
-如果你喜欢我的项目，可以给我买杯咖啡 ☕
+## 💝 Sponse Me
 
 <div align="center">
   
@@ -142,11 +132,11 @@ const jarvis = {
 
 <div align="center">
   
-### 🎯 "代码改变世界，创新驱动未来" 🚀
+### 🎯 "Talk is Cheap,Show me the code" 🚀
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-**感谢访问我的 GitHub Profile！** 🙏
+** Thanks！**  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
