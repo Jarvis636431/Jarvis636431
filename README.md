@@ -1,6 +1,6 @@
 <!-- 动态欢迎语 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Jarvis+%F0%9F%91%8B;Full+Stack+Developer;Always+Learning+New+Things;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Jarvis+%F0%9F%91%8B;Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
 </h1>
 
 <!-- 个人头像和状态 -->
@@ -47,7 +47,7 @@ const jarvis = {
 
 ### 🤖 AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda,jupyter,r,sklearn,numpy,pandas" />
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda,r,sklearn" />
 
 ### 🗄️ DataBase
 
