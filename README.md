@@ -38,18 +38,27 @@ const jarvis = {
 <div align="center">
 
 ### 💻 Languages
+
 <img src="https://skillicons.dev/icons?i=js,ts,dart,python,java,go,rust,cpp,html,css,sass" />
 
 ### 🌐 Frameworks
+
 <img src="https://skillicons.dev/icons?i=flutter,react,vue,tailwind,nodejs,django,fastapi,spring" />
 
+### 🤖 AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda,jupyter,r,sklearn,numpy,pandas" />
+
 ### 🗄️ DataBase
+
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite" />
 
 ### ☁️ Cloud & DevOps
+
 <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
 
 ### 🔧 Tools
+
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,vscode,webstorm,pycharm" />
 
 </div>
@@ -89,6 +98,7 @@ const jarvis = {
 <div align="center">
 
 <!-- 替换为你的实际项目 -->
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jarvis636431&repo=awesome-project-1&theme=tokyonight&hide_border=true)](https://github.com/twtstudio/WePeiYang-Flutter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jarvis636431&repo=awesome-project-2&theme=tokyonight&hide_border=true)](https://github.com/Jarvis636431/iDesign-2025)
 
@@ -135,7 +145,7 @@ const jarvis = {
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-**Thanks**  
+**Thanks**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
