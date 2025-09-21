@@ -7,7 +7,7 @@
 <div align="center">
   <img src="https://github.com/Jarvis636431.png" width="150" style="border-radius: 50%; border: 3px solid #0366d6;" />
   
-  <h3>Noemal Developer</h3>
+  <h3>Normal Developer</h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=Jarvis636431&color=0366d6&style=flat-square&label=Profile+Views" alt="Profile Views" />
