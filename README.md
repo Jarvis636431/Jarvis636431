@@ -33,35 +33,15 @@ const jarvis = {
 
 ---
 
-## 🛠️ Stacks
+## 🛠️ Tech Stack
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,dart,python,go,react,vue,flutter,nodejs,fastapi,postgres,redis,docker,git" alt="TypeScript, Dart, Python, Go, React, Vue, Flutter, Node.js, FastAPI, PostgreSQL, Redis, Docker and Git" />
+</p>
 
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=js,ts,dart,python,java,go,rust,cpp,html,css,sass" />
-
-### 🌐 Frameworks
-
-<img src="https://skillicons.dev/icons?i=flutter,react,vue,tailwind,nodejs,django,fastapi,spring" />
-
-### 🤖 AI & Machine Learning
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,anaconda,r,sklearn" />
-
-### 🗄️ DataBase
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis,sqlite" />
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes" />
-
-### 🔧 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,figma,postman,vscode,webstorm,pycharm" />
-
-</div>
+<p align="center">
+  Building cross-platform applications, developer tools, and AI-powered products.
+</p>
 
 ---
 
