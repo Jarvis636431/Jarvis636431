@@ -1,13 +1,12 @@
-<!-- 动态欢迎语 -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Jarvis+%F0%9F%91%8B;Full+Stack+Developer;Welcome+to+my+GitHub!" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi, I'm Jarvis 👋</h1>
+
+<p align="center">
+  Software Engineer at JD.com · Cross-platform Applications · AI Products
+</p>
 
 <!-- 个人头像和状态 -->
 <div align="center">
-  <img src="https://github.com/Jarvis636431.png" width="150" style="border-radius: 50%; border: 3px solid #0366d6;" />
-  
-  <h3>Normal Developer</h3>
+  <img src="https://github.com/Jarvis636431.png" width="150" alt="Jarvis" />
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=Jarvis636431&color=0366d6&style=flat-square&label=Profile+Views" alt="Profile Views" />
@@ -19,17 +18,11 @@
 
 ## 🙋‍♂️ About Me
 
-```typescript
-const jarvis = {
-    name: "Jarvis",
-    school：“Tianjin University”
-    role: "Undergraduate / Full Stack Developer",
-    location: "China 🇨🇳",
-    languages: ["JavaScript", "TypeScript", "Python", "Go", "Dart"],
-    interests: ["Web Development", "AI/ML", "Open Source", "Tech Innovation"],
-    funFact: "I'm An Apex Master 😄 "
-};
-```
+I studied at Tianjin University and now work as a software engineer at JD.com.
+I build cross-platform applications, developer tools, and AI-powered products,
+with a strong interest in open source and thoughtful product engineering.
+
+Outside of work, I'm an Apex Master. 🎮
 
 ---
 
@@ -37,10 +30,6 @@ const jarvis = {
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,dart,python,go,react,vue,flutter,nodejs,fastapi,postgres,redis,docker,git" alt="TypeScript, Dart, Python, Go, React, Vue, Flutter, Node.js, FastAPI, PostgreSQL, Redis, Docker and Git" />
-</p>
-
-<p align="center">
-  Building cross-platform applications, developer tools, and AI-powered products.
 </p>
 
 ---
