@@ -27,14 +27,14 @@ My latest merged pull requests to open-source projects, ordered by submission da
 
 <!-- contributions:start -->
 
-| Project | Contribution | Status |
-| --- | --- | --- |
-| [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) | [docs: update renamed crates in project architecture (#16087)](https://github.com/web-infra-dev/rspack/pull/16087) | 🟣 Merged |
-| [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild) | [fix(core): recognize charset attributes in custom HTML templates (#8670)](https://github.com/web-infra-dev/rsbuild/pull/8670) | 🟣 Merged |
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [fix(frontend): preserve inline images in EPUB previews (#4226)](https://github.com/Tencent/WeKnora/pull/4226) | 🟣 Merged |
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [fix(frontend): preserve nonempty lists when pressing Enter (#4224)](https://github.com/Tencent/WeKnora/pull/4224) | 🟣 Merged |
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [fix(frontend): respect Markdown indentation selection boundaries (#4195)](https://github.com/Tencent/WeKnora/pull/4195) | 🟣 Merged |
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [fix(helm): configure app rollouts and document shared storage (#4180)](https://github.com/Tencent/WeKnora/pull/4180) | 🟣 Merged |
+| Project | Contribution |
+| --- | --- |
+| [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) | [docs: update renamed crates in project architecture (#16087)](https://github.com/web-infra-dev/rspack/pull/16087) |
+| [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild) | [fix(core): recognize charset attributes in custom HTML templates (#8670)](https://github.com/web-infra-dev/rsbuild/pull/8670) |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [fix(frontend): preserve inline images in EPUB previews (#4226)](https://github.com/Tencent/WeKnora/pull/4226) |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [fix(frontend): preserve nonempty lists when pressing Enter (#4224)](https://github.com/Tencent/WeKnora/pull/4224) |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [fix(frontend): respect Markdown indentation selection boundaries (#4195)](https://github.com/Tencent/WeKnora/pull/4195) |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [fix(helm): configure app rollouts and document shared storage (#4180)](https://github.com/Tencent/WeKnora/pull/4180) |
 
 [View all merged pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 

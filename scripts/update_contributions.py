@@ -35,7 +35,7 @@ def escape_text(value):
 
 
 def render_contributions(items):
-    lines = ["| Project | Contribution | Status |", "| --- | --- | --- |"]
+    lines = ["| Project | Contribution |", "| --- | --- |"]
     for item in items[:LIMIT]:
         if not item.get("pull_request", {}).get("merged_at"):
             raise ValueError("Search returned an unmerged pull request")
@@ -48,7 +48,7 @@ def render_contributions(items):
             raise ValueError("Search returned a pull request in a personal repository")
         project = f"[{escape_text(owner + '/' + repo)}](https://github.com/{owner}/{repo})"
         title = escape_text(item["title"])
-        lines.append(f"| {project} | [{title} (#{number})]({url}) | 🟣 Merged |")
+        lines.append(f"| {project} | [{title} (#{number})]({url}) |")
     if not items:
         lines = ["No merged public pull requests yet."]
     all_prs = "https://github.com/pulls?" + urlencode({"q": QUERY})
