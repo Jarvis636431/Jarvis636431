@@ -34,8 +34,20 @@ def escape_text(value):
     return re.sub(r"([\\`*_[\]{}|])", r"\\\1", value)
 
 
+def display_title(title):
+    # Remove conventional commit metadata to make the profile easier to scan.
+    title = re.sub(
+        r"^(?:fix|feat|docs|chore|refactor|perf|test|build|ci|style|revert)"
+        r"(?:\([^)]*\))?!?:\s*",
+        "",
+        title,
+        flags=re.IGNORECASE,
+    ).strip()
+    return title[:1].upper() + title[1:]
+
+
 def render_contributions(items):
-    lines = ["| Project | Contribution |", "| --- | --- |"]
+    projects = {}
     for item in items[:LIMIT]:
         if not item.get("pull_request", {}).get("merged_at"):
             raise ValueError("Search returned an unmerged pull request")
@@ -46,13 +58,24 @@ def render_contributions(items):
         owner, repo, number = match.groups()
         if owner.casefold() == USERNAME.casefold():
             raise ValueError("Search returned a pull request in a personal repository")
-        project = f"[{escape_text(owner + '/' + repo)}](https://github.com/{owner}/{repo})"
-        title = escape_text(item["title"])
-        lines.append(f"| {project} | [{title} (#{number})]({url}) |")
+        project = (owner, repo)
+        title = escape_text(display_title(item["title"]))
+        projects.setdefault(project, []).append(
+            f"- [{title}]({url}) <sub>#{number}</sub>"
+        )
+    lines = []
+    for (owner, repo), contributions in projects.items():
+        lines.extend([
+            f"### [{escape_text(repo)}](https://github.com/{owner}/{repo}) "
+            f"<sub>· {escape_text(owner)}</sub>",
+            "",
+            *contributions,
+            "",
+        ])
     if not items:
         lines = ["No merged public pull requests yet."]
     all_prs = "https://github.com/pulls?" + urlencode({"q": QUERY})
-    return "\n".join(lines) + f"\n\n[View all merged pull requests]({all_prs})"
+    return "\n".join(lines).rstrip() + f"\n\n[Explore all merged contributions →]({all_prs})"
 
 
 def replace_section(readme, content):

@@ -1,41 +1,81 @@
-<h1 align="center">Jarvis</h1>
+<p align="center">
+  <samp>TIANJIN UNIVERSITY → JD.COM</samp>
+</p>
+
+<h1 align="center">Hi, I'm Jarvis.</h1>
 
 <p align="center">
-  <strong>Software Engineer at JD.com</strong>
+  <strong>From new ideas to useful software.</strong><br>
+  Building with AI. Connecting platforms. Making development easier.
 </p>
 
 <p align="center">
-  AI Agents · Cross-platform Engineering · Open Source
+  <a href="https://jarvis636431.github.io/">Visit my website ↗</a>
+  &nbsp; / &nbsp;
+  <a href="mailto:mengda636431@gmail.com">Get in touch</a>
+  &nbsp; / &nbsp;
+  <a href="#open-source-in-practice">Open source ↓</a>
 </p>
 
-<p align="center">
-  <a href="https://jarvis636431.github.io/">Website</a> ·
-  <a href="mailto:mengda636431@gmail.com">Email</a>
-</p>
+---
 
-## About
+## Behind the code
 
-I studied at Tianjin University and work on AI-native software, cross-platform
-systems, and tools that make developers more productive.
+I'm a software engineer at **JD.com**, with a background from **Tianjin
+University**. My interests meet where AI-native software, cross-platform
+engineering, and developer tools come together.
 
-I enjoy exploring new ideas, building useful products, and contributing to open
-source. Outside of work, you'll probably find me in Apex Legends.
+I like exploring new ideas, building something useful from them, and contributing
+back to the open-source projects along the way.
 
-## Recent Open Source Contributions
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <sub>01 / AI</sub><br>
+      <strong>Agents &amp; applications</strong><br>
+      Turning AI capabilities into useful software.
+    </td>
+    <td width="33%" valign="top">
+      <sub>02 / PLATFORMS</sub><br>
+      <strong>Cross-platform systems</strong><br>
+      Exploring how software works across environments.
+    </td>
+    <td width="33%" valign="top">
+      <sub>03 / TOOLS</sub><br>
+      <strong>Developer experience</strong><br>
+      Making everyday development a little easier.
+    </td>
+  </tr>
+</table>
 
-My latest merged pull requests to open-source projects, ordered by submission date.
+## Open source, in practice
+
+A look at my latest contributions, grouped by project. These six pull requests
+have all been merged; the selection follows submission date, newest first.
 
 <!-- contributions:start -->
 
-| Project | Contribution |
-| --- | --- |
-| [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) | [docs: update renamed crates in project architecture (#16087)](https://github.com/web-infra-dev/rspack/pull/16087) |
-| [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild) | [fix(core): recognize charset attributes in custom HTML templates (#8670)](https://github.com/web-infra-dev/rsbuild/pull/8670) |
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [fix(frontend): preserve inline images in EPUB previews (#4226)](https://github.com/Tencent/WeKnora/pull/4226) |
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [fix(frontend): preserve nonempty lists when pressing Enter (#4224)](https://github.com/Tencent/WeKnora/pull/4224) |
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [fix(frontend): respect Markdown indentation selection boundaries (#4195)](https://github.com/Tencent/WeKnora/pull/4195) |
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [fix(helm): configure app rollouts and document shared storage (#4180)](https://github.com/Tencent/WeKnora/pull/4180) |
+### [rspack](https://github.com/web-infra-dev/rspack) <sub>· web-infra-dev</sub>
 
-[View all merged pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
+- [Update renamed crates in project architecture](https://github.com/web-infra-dev/rspack/pull/16087) <sub>#16087</sub>
+
+### [rsbuild](https://github.com/web-infra-dev/rsbuild) <sub>· web-infra-dev</sub>
+
+- [Recognize charset attributes in custom HTML templates](https://github.com/web-infra-dev/rsbuild/pull/8670) <sub>#8670</sub>
+
+### [WeKnora](https://github.com/Tencent/WeKnora) <sub>· Tencent</sub>
+
+- [Preserve inline images in EPUB previews](https://github.com/Tencent/WeKnora/pull/4226) <sub>#4226</sub>
+- [Preserve nonempty lists when pressing Enter](https://github.com/Tencent/WeKnora/pull/4224) <sub>#4224</sub>
+- [Respect Markdown indentation selection boundaries](https://github.com/Tencent/WeKnora/pull/4195) <sub>#4195</sub>
+- [Configure app rollouts and document shared storage](https://github.com/Tencent/WeKnora/pull/4180) <sub>#4180</sub>
+
+[Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
 <!-- contributions:end -->
+
+---
+
+<p align="center">
+  <sub>Outside of software? Probably playing Apex Legends.</sub>
+</p>
