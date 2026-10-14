@@ -15,36 +15,27 @@
 
 ## About
 
-I studied at Tianjin University and now work as a software engineer at JD.com.
-I'm interested in AI-native software, cross-platform systems, and tools that make
-developers more productive.
+I studied at Tianjin University and work on AI-native software, cross-platform
+systems, and tools that make developers more productive.
 
 I enjoy exploring new ideas, building useful products, and contributing to open
 source. Outside of work, you'll probably find me in Apex Legends.
 
-## Focus
+## Recent Open Source Contributions
 
-- AI agents and LLM-powered applications
-- Cross-platform frameworks and application engineering
-- Developer experience and open-source tooling
+My latest merged pull requests to open-source projects, ordered by submission date.
 
-## Projects I Care About
+<!-- contributions:start -->
 
-### [Taro](https://github.com/NervJS/taro)
+| Project | Contribution | Status |
+| --- | --- | --- |
+| [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) | [docs: update renamed crates in project architecture (#16087)](https://github.com/web-infra-dev/rspack/pull/16087) | 🟣 Merged |
+| [web-infra-dev/rsbuild](https://github.com/web-infra-dev/rsbuild) | [fix(core): recognize charset attributes in custom HTML templates (#8670)](https://github.com/web-infra-dev/rsbuild/pull/8670) | 🟣 Merged |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [fix(frontend): preserve inline images in EPUB previews (#4226)](https://github.com/Tencent/WeKnora/pull/4226) | 🟣 Merged |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [fix(frontend): preserve nonempty lists when pressing Enter (#4224)](https://github.com/Tencent/WeKnora/pull/4224) | 🟣 Merged |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [fix(frontend): respect Markdown indentation selection boundaries (#4195)](https://github.com/Tencent/WeKnora/pull/4195) | 🟣 Merged |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | [fix(helm): configure app rollouts and document shared storage (#4180)](https://github.com/Tencent/WeKnora/pull/4180) | 🟣 Merged |
 
-An open cross-platform framework for building applications with React and Vue
-across mini programs, H5, React Native, and more.
+[View all merged pull requests](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
-[Documentation](https://docs.taro.zone/)
-
-### [OxyGent](https://github.com/jd-opensource/OxyGent)
-
-An open-source multi-agent framework built around modularity, observability, and
-evolvability.
-
-[Website](https://oxygent.jd.com/)
-
-### [WePeiYang](https://github.com/twtstudio/WePeiYang-Flutter)
-
-A Flutter-based campus application created by TWT Studio for the Tianjin
-University community.
+<!-- contributions:end -->
