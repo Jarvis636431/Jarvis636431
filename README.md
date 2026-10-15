@@ -55,6 +55,10 @@ have all been merged; the selection follows submission date, newest first.
 
 <!-- contributions:start -->
 
+### [rspress](https://github.com/web-infra-dev/rspress) <sub>· web-infra-dev</sub>
+
+- [Update development and testing instructions](https://github.com/web-infra-dev/rspress/pull/3751) <sub>#3751</sub>
+
 ### [rspack](https://github.com/web-infra-dev/rspack) <sub>· web-infra-dev</sub>
 
 - [Update renamed crates in project architecture](https://github.com/web-infra-dev/rspack/pull/16087) <sub>#16087</sub>
@@ -68,7 +72,6 @@ have all been merged; the selection follows submission date, newest first.
 - [Preserve inline images in EPUB previews](https://github.com/Tencent/WeKnora/pull/4226) <sub>#4226</sub>
 - [Preserve nonempty lists when pressing Enter](https://github.com/Tencent/WeKnora/pull/4224) <sub>#4224</sub>
 - [Respect Markdown indentation selection boundaries](https://github.com/Tencent/WeKnora/pull/4195) <sub>#4195</sub>
-- [Configure app rollouts and document shared storage](https://github.com/Tencent/WeKnora/pull/4180) <sub>#4180</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
