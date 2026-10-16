@@ -55,6 +55,15 @@ have all been merged; the selection follows submission date, newest first.
 
 <!-- contributions:start -->
 
+### [taro](https://github.com/NervJS/taro) <sub>· NervJS</sub>
+
+- [Release socket slots on server close](https://github.com/NervJS/taro/pull/19534) <sub>#19534</sub>
+- [Clear download timeout after completion](https://github.com/NervJS/taro/pull/19532) <sub>#19532</sub>
+
+### [xerj](https://github.com/xerj-org/xerj) <sub>· xerj-org</sub>
+
+- [CLA: add Jarvis636431 to .contributors](https://github.com/xerj-org/xerj/pull/1499) <sub>#1499</sub>
+
 ### [rspress](https://github.com/web-infra-dev/rspress) <sub>· web-infra-dev</sub>
 
 - [Update development and testing instructions](https://github.com/web-infra-dev/rspress/pull/3751) <sub>#3751</sub>
@@ -66,12 +75,6 @@ have all been merged; the selection follows submission date, newest first.
 ### [rsbuild](https://github.com/web-infra-dev/rsbuild) <sub>· web-infra-dev</sub>
 
 - [Recognize charset attributes in custom HTML templates](https://github.com/web-infra-dev/rsbuild/pull/8670) <sub>#8670</sub>
-
-### [WeKnora](https://github.com/Tencent/WeKnora) <sub>· Tencent</sub>
-
-- [Preserve inline images in EPUB previews](https://github.com/Tencent/WeKnora/pull/4226) <sub>#4226</sub>
-- [Preserve nonempty lists when pressing Enter](https://github.com/Tencent/WeKnora/pull/4224) <sub>#4224</sub>
-- [Respect Markdown indentation selection boundaries](https://github.com/Tencent/WeKnora/pull/4195) <sub>#4195</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
