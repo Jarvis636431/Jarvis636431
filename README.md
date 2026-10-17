@@ -57,18 +57,15 @@ have all been merged; the selection follows submission date, newest first.
 
 ### [dbx](https://github.com/t8y2/dbx) <sub>· t8y2</sub>
 
+- [Honor clock-time bounds in generation and previews](https://github.com/t8y2/dbx/pull/12556) <sub>#12556</sub>
+- [Count decimal significant digits across the point](https://github.com/t8y2/dbx/pull/12554) <sub>#12554</sub>
 - [Explain double-click string and word selection](https://github.com/t8y2/dbx/pull/12549) <sub>#12549</sub>
 - [Sync pnpm version in contribution and setup guides](https://github.com/t8y2/dbx/pull/12531) <sub>#12531</sub>
 
-### [taro](https://github.com/NervJS/taro) <sub>· NervJS</sub>
+### [WeKnora](https://github.com/Tencent/WeKnora) <sub>· Tencent</sub>
 
-- [Release socket slots on server close](https://github.com/NervJS/taro/pull/19534) <sub>#19534</sub>
-- [Clear download timeout after completion](https://github.com/NervJS/taro/pull/19532) <sub>#19532</sub>
-
-### [xerj](https://github.com/xerj-org/xerj) <sub>· xerj-org</sub>
-
-- [CLA: add Jarvis636431 to .contributors](https://github.com/xerj-org/xerj/pull/1499) <sub>#1499</sub>
-- [Clarify the conformance gate in contributing guide](https://github.com/xerj-org/xerj/pull/1498) <sub>#1498</sub>
+- [Clarify read\_document query and pagination semantics](https://github.com/Tencent/WeKnora/pull/4403) <sub>#4403</sub>
+- [Preserve chunk types in tool results](https://github.com/Tencent/WeKnora/pull/4402) <sub>#4402</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
