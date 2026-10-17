@@ -55,6 +55,11 @@ have all been merged; the selection follows submission date, newest first.
 
 <!-- contributions:start -->
 
+### [dbx](https://github.com/t8y2/dbx) <sub>· t8y2</sub>
+
+- [Explain double-click string and word selection](https://github.com/t8y2/dbx/pull/12549) <sub>#12549</sub>
+- [Sync pnpm version in contribution and setup guides](https://github.com/t8y2/dbx/pull/12531) <sub>#12531</sub>
+
 ### [taro](https://github.com/NervJS/taro) <sub>· NervJS</sub>
 
 - [Release socket slots on server close](https://github.com/NervJS/taro/pull/19534) <sub>#19534</sub>
@@ -63,18 +68,7 @@ have all been merged; the selection follows submission date, newest first.
 ### [xerj](https://github.com/xerj-org/xerj) <sub>· xerj-org</sub>
 
 - [CLA: add Jarvis636431 to .contributors](https://github.com/xerj-org/xerj/pull/1499) <sub>#1499</sub>
-
-### [rspress](https://github.com/web-infra-dev/rspress) <sub>· web-infra-dev</sub>
-
-- [Update development and testing instructions](https://github.com/web-infra-dev/rspress/pull/3751) <sub>#3751</sub>
-
-### [rspack](https://github.com/web-infra-dev/rspack) <sub>· web-infra-dev</sub>
-
-- [Update renamed crates in project architecture](https://github.com/web-infra-dev/rspack/pull/16087) <sub>#16087</sub>
-
-### [rsbuild](https://github.com/web-infra-dev/rsbuild) <sub>· web-infra-dev</sub>
-
-- [Recognize charset attributes in custom HTML templates](https://github.com/web-infra-dev/rsbuild/pull/8670) <sub>#8670</sub>
+- [Clarify the conformance gate in contributing guide](https://github.com/xerj-org/xerj/pull/1498) <sub>#1498</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
