@@ -55,20 +55,17 @@ have all been merged; the selection follows submission date, newest first.
 
 <!-- contributions:start -->
 
+### [xerj](https://github.com/xerj-org/xerj) <sub>· xerj-org</sub>
+
+- [MCP prefix isolation validation](https://github.com/xerj-org/xerj/pull/2138) <sub>#2138</sub>
+- [Support autoindex prefixes in xerj\_search](https://github.com/xerj-org/xerj/pull/2137) <sub>#2137</sub>
+- [Semantic verification diagnostics on macOS](https://github.com/xerj-org/xerj/pull/2017) <sub>#2017</sub>
+- [Report semantic verification counts and datasets](https://github.com/xerj-org/xerj/pull/2016) <sub>#2016</sub>
+
 ### [WeKnora](https://github.com/Tencent/WeKnora) <sub>· Tencent</sub>
 
 - [Preserve disabled state when importing entries](https://github.com/Tencent/WeKnora/pull/4581) <sub>#4581</sub>
 - [Support personal access token authentication](https://github.com/Tencent/WeKnora/pull/4549) <sub>#4549</sub>
-
-### [xerj](https://github.com/xerj-org/xerj) <sub>· xerj-org</sub>
-
-- [Semantic verification diagnostics on macOS](https://github.com/xerj-org/xerj/pull/2017) <sub>#2017</sub>
-- [Report semantic verification counts and datasets](https://github.com/xerj-org/xerj/pull/2016) <sub>#2016</sub>
-
-### [dbx](https://github.com/t8y2/dbx) <sub>· t8y2</sub>
-
-- [Honor clock-time bounds in generation and previews](https://github.com/t8y2/dbx/pull/12556) <sub>#12556</sub>
-- [Count decimal significant digits across the point](https://github.com/t8y2/dbx/pull/12554) <sub>#12554</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
