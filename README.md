@@ -55,20 +55,20 @@ have all been merged; the selection follows submission date, newest first.
 
 <!-- contributions:start -->
 
-### [taro](https://github.com/NervJS/taro) <sub>· NervJS</sub>
-
-- [Preserve node insertion consistency](https://github.com/NervJS/taro/pull/19551) <sub>#19551</sub>
-
 ### [xerj](https://github.com/xerj-org/xerj) <sub>· xerj-org</sub>
 
-- [MCP prefix isolation validation](https://github.com/xerj-org/xerj/pull/2138) <sub>#2138</sub>
-- [Support autoindex prefixes in xerj\_search](https://github.com/xerj-org/xerj/pull/2137) <sub>#2137</sub>
+- [MCP budget identity validation](https://github.com/xerj-org/xerj/pull/2265) <sub>#2265</sub>
 
 ### [WeKnora](https://github.com/Tencent/WeKnora) <sub>· Tencent</sub>
 
-- [Accept formats advertised by parser engines](https://github.com/Tencent/WeKnora/pull/4602) <sub>#4602</sub>
-- [Cancel stale image fetches before Blob allocation](https://github.com/Tencent/WeKnora/pull/4588) <sub>#4588</sub>
-- [Preserve disabled state when importing entries](https://github.com/Tencent/WeKnora/pull/4581) <sub>#4581</sub>
+- [Keep document toolbar actions inside the pane](https://github.com/Tencent/WeKnora/pull/4653) <sub>#4653</sub>
+- [Coalesce graph label updates and skip hidden SVG layout](https://github.com/Tencent/WeKnora/pull/4646) <sub>#4646</sub>
+
+### [taro](https://github.com/NervJS/taro) <sub>· NervJS</sub>
+
+- [修复资源内联的数字阈值判断](https://github.com/NervJS/taro/pull/19559) <sub>#19559</sub>
+- [修复 Picker 重开时的关闭定时器竞争](https://github.com/NervJS/taro/pull/19557) <sub>#19557</sub>
+- [释放 chooseMedia 加载失败的临时资源](https://github.com/NervJS/taro/pull/19555) <sub>#19555</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
