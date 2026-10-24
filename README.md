@@ -57,6 +57,7 @@ have all been merged; the selection follows submission date, newest first.
 
 ### [xerj](https://github.com/xerj-org/xerj) <sub>· xerj-org</sub>
 
+- [Batch-search candidate field report](https://github.com/xerj-org/xerj/pull/2334) <sub>#2334</sub>
 - [Avoid false deduplication of rendered code passages](https://github.com/xerj-org/xerj/pull/2272) <sub>#2272</sub>
 - [MCP budget identity validation](https://github.com/xerj-org/xerj/pull/2265) <sub>#2265</sub>
 - [Preserve distinct records in JSON token budgets](https://github.com/xerj-org/xerj/pull/2255) <sub>#2255</sub>
@@ -65,10 +66,6 @@ have all been merged; the selection follows submission date, newest first.
 
 - [Keep document toolbar actions inside the pane](https://github.com/Tencent/WeKnora/pull/4653) <sub>#4653</sub>
 - [Coalesce graph label updates and skip hidden SVG layout](https://github.com/Tencent/WeKnora/pull/4646) <sub>#4646</sub>
-
-### [taro](https://github.com/NervJS/taro) <sub>· NervJS</sub>
-
-- [修复资源内联的数字阈值判断](https://github.com/NervJS/taro/pull/19559) <sub>#19559</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
