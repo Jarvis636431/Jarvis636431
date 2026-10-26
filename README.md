@@ -62,7 +62,10 @@ have all been merged; the selection follows submission date, newest first.
 - [Real-pack batch retrieval evaluation](https://github.com/xerj-org/xerj/pull/2385) <sub>#2385</sub>
 - [Batch-search candidate field report](https://github.com/xerj-org/xerj/pull/2334) <sub>#2334</sub>
 - [Add ordered batch retrieval to CLI and MCP](https://github.com/xerj-org/xerj/pull/2333) <sub>#2333</sub>
-- [Avoid false deduplication of rendered code passages](https://github.com/xerj-org/xerj/pull/2272) <sub>#2272</sub>
+
+### [taro](https://github.com/NervJS/taro) <sub>· NervJS</sub>
+
+- [Handle asynchronous storage failures](https://github.com/NervJS/taro/pull/19563) <sub>#19563</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
