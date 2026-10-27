@@ -57,15 +57,15 @@ have all been merged; the selection follows submission date, newest first.
 
 ### [taro](https://github.com/NervJS/taro) <sub>· NervJS</sub>
 
+- [建立深克隆子树的父节点引用](https://github.com/NervJS/taro/pull/19571) <sub>#19571</sub>
+- [删除 data-\* 属性时同步清理 dataset](https://github.com/NervJS/taro/pull/19569) <sub>#19569</sub>
 - [Preserve insertAdjacentHTML node order](https://github.com/NervJS/taro/pull/19567) <sub>#19567</sub>
 - [Validate canvas export targets](https://github.com/NervJS/taro/pull/19564) <sub>#19564</sub>
-- [Handle asynchronous storage failures](https://github.com/NervJS/taro/pull/19563) <sub>#19563</sub>
 
 ### [xerj](https://github.com/xerj-org/xerj) <sub>· xerj-org</sub>
 
 - [Report effective data directory provenance at startup](https://github.com/xerj-org/xerj/pull/2414) <sub>#2414</sub>
 - [Prepare Claude Code session text for autoindex](https://github.com/xerj-org/xerj/pull/2406) <sub>#2406</sub>
-- [Real-pack batch retrieval evaluation](https://github.com/xerj-org/xerj/pull/2385) <sub>#2385</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
