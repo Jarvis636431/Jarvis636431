@@ -57,8 +57,8 @@ have all been merged; the selection follows submission date, newest first.
 
 ### [xerj](https://github.com/xerj-org/xerj) <sub>· xerj-org</sub>
 
+- [Export offline HTML and Markdown data maps](https://github.com/xerj-org/xerj/pull/2705) <sub>#2705</sub>
 - [Offline map export verification](https://github.com/xerj-org/xerj/pull/2702) <sub>#2702</sub>
-- [Discover separately exported TS/JS factories](https://github.com/xerj-org/xerj/pull/2621) <sub>#2621</sub>
 
 ### [agent-foundation](https://github.com/converge-ai-labs/agent-foundation) <sub>· converge-ai-labs</sub>
 
