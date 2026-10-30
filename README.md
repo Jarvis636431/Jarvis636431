@@ -55,20 +55,17 @@ have all been merged; the selection follows submission date, newest first.
 
 <!-- contributions:start -->
 
+### [xerj](https://github.com/xerj-org/xerj) <sub>· xerj-org</sub>
+
+- [Offline map export verification](https://github.com/xerj-org/xerj/pull/2702) <sub>#2702</sub>
+- [Discover separately exported TS/JS factories](https://github.com/xerj-org/xerj/pull/2621) <sub>#2621</sub>
+
 ### [agent-foundation](https://github.com/converge-ai-labs/agent-foundation) <sub>· converge-ai-labs</sub>
 
 - [Fit retained history references within recovery budgets](https://github.com/converge-ai-labs/agent-foundation/pull/1344) <sub>#1344</sub>
+- [Carry rounded duration seconds into minutes](https://github.com/converge-ai-labs/agent-foundation/pull/1341) <sub>#1341</sub>
+- [Cover language selection and preference persistence](https://github.com/converge-ai-labs/agent-foundation/pull/1338) <sub>#1338</sub>
 - [Clarify bundled Console serving](https://github.com/converge-ai-labs/agent-foundation/pull/1335) <sub>#1335</sub>
-
-### [xerj](https://github.com/xerj-org/xerj) <sub>· xerj-org</sub>
-
-- [Discover separately exported TS/JS factories](https://github.com/xerj-org/xerj/pull/2621) <sub>#2621</sub>
-- [TS/JS factory definition verification](https://github.com/xerj-org/xerj/pull/2620) <sub>#2620</sub>
-
-### [taro](https://github.com/NervJS/taro) <sub>· NervJS</sub>
-
-- [建立深克隆子树的父节点引用](https://github.com/NervJS/taro/pull/19571) <sub>#19571</sub>
-- [删除 data-\* 属性时同步清理 dataset](https://github.com/NervJS/taro/pull/19569) <sub>#19569</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
