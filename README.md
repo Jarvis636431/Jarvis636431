@@ -57,6 +57,8 @@ have all been merged; the selection follows submission date, newest first.
 
 ### [xerj](https://github.com/xerj-org/xerj) <sub>· xerj-org</sub>
 
+- [Report code size-boundary experience](https://github.com/xerj-org/xerj/pull/2790) <sub>#2790</sub>
+- [Report exact code size-limit skips](https://github.com/xerj-org/xerj/pull/2789) <sub>#2789</sub>
 - [Export offline HTML and Markdown data maps](https://github.com/xerj-org/xerj/pull/2705) <sub>#2705</sub>
 - [Offline map export verification](https://github.com/xerj-org/xerj/pull/2702) <sub>#2702</sub>
 
@@ -64,8 +66,6 @@ have all been merged; the selection follows submission date, newest first.
 
 - [Fit retained history references within recovery budgets](https://github.com/converge-ai-labs/agent-foundation/pull/1344) <sub>#1344</sub>
 - [Carry rounded duration seconds into minutes](https://github.com/converge-ai-labs/agent-foundation/pull/1341) <sub>#1341</sub>
-- [Cover language selection and preference persistence](https://github.com/converge-ai-labs/agent-foundation/pull/1338) <sub>#1338</sub>
-- [Clarify bundled Console serving](https://github.com/converge-ai-labs/agent-foundation/pull/1335) <sub>#1335</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
