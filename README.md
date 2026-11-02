@@ -62,10 +62,10 @@ have all been merged; the selection follows submission date, newest first.
 - [Export offline HTML and Markdown data maps](https://github.com/xerj-org/xerj/pull/2705) <sub>#2705</sub>
 - [Offline map export verification](https://github.com/xerj-org/xerj/pull/2702) <sub>#2702</sub>
 
-### [agent-foundation](https://github.com/converge-ai-labs/agent-foundation) <sub>· converge-ai-labs</sub>
+### [taro](https://github.com/NervJS/taro) <sub>· NervJS</sub>
 
-- [Fit retained history references within recovery budgets](https://github.com/converge-ai-labs/agent-foundation/pull/1344) <sub>#1344</sub>
-- [Carry rounded duration seconds into minutes](https://github.com/converge-ai-labs/agent-foundation/pull/1341) <sub>#1341</sub>
+- [修复 pageScrollTo 动画越过目标位置](https://github.com/NervJS/taro/pull/19584) <sub>#19584</sub>
+- [修复 once 监听器的取消与解绑时机](https://github.com/NervJS/taro/pull/19583) <sub>#19583</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
