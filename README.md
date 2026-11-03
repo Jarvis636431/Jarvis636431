@@ -57,18 +57,15 @@ have all been merged; the selection follows submission date, newest first.
 
 ### [xerj](https://github.com/xerj-org/xerj) <sub>· xerj-org</sub>
 
+- [Report MCP stdio protocol fix session](https://github.com/xerj-org/xerj/pull/2902) <sub>#2902</sub>
 - [Agent field report for the Gemini hook host session](https://github.com/xerj-org/xerj/pull/2880) <sub>#2880</sub>
 - [Add opt-in Gemini CLI search hints](https://github.com/xerj-org/xerj/pull/2879) <sub>#2879</sub>
 - [Add opt-in Claude Code search hints](https://github.com/xerj-org/xerj/pull/2869) <sub>#2869</sub>
 
-### [taro](https://github.com/NervJS/taro) <sub>· NervJS</sub>
-
-- [修正 contains 的节点包含关系判断](https://github.com/NervJS/taro/pull/19595) <sub>#19595</sub>
-- [修复派发期间监听器变更导致重复调用或抛错](https://github.com/NervJS/taro/pull/19593) <sub>#19593</sub>
-
 ### [agent-foundation](https://github.com/converge-ai-labs/agent-foundation) <sub>· converge-ai-labs</sub>
 
-- [Support English and Chinese in Agent and Model settings](https://github.com/converge-ai-labs/agent-foundation/pull/1377) <sub>#1377</sub>
+- [Support English and Chinese in the chat transcript](https://github.com/converge-ai-labs/agent-foundation/pull/1385) <sub>#1385</sub>
+- [Localize sharing link management](https://github.com/converge-ai-labs/agent-foundation/pull/1383) <sub>#1383</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
