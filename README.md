@@ -55,6 +55,12 @@ have all been merged; the selection follows submission date, newest first.
 
 <!-- contributions:start -->
 
+### [taro](https://github.com/NervJS/taro) <sub>· NervJS</sub>
+
+- [Correct return type of createPullDownComponent hook](https://github.com/NervJS/taro/pull/19603) <sub>#19603</sub>
+- [Correct framework param type of createRouter/createMultiRouter](https://github.com/NervJS/taro/pull/19601) <sub>#19601</sub>
+- [Call WeChat JS-SDK once in processOpenApi](https://github.com/NervJS/taro/pull/19600) <sub>#19600</sub>
+
 ### [agent-foundation](https://github.com/converge-ai-labs/agent-foundation) <sub>· converge-ai-labs</sub>
 
 - [Support English and Chinese in chat usage details](https://github.com/converge-ai-labs/agent-foundation/pull/1388) <sub>#1388</sub>
@@ -63,12 +69,6 @@ have all been merged; the selection follows submission date, newest first.
 ### [xerj](https://github.com/xerj-org/xerj) <sub>· xerj-org</sub>
 
 - [Report MCP stdio protocol fix session](https://github.com/xerj-org/xerj/pull/2902) <sub>#2902</sub>
-- [Agent field report for the Gemini hook host session](https://github.com/xerj-org/xerj/pull/2880) <sub>#2880</sub>
-- [Add opt-in Gemini CLI search hints](https://github.com/xerj-org/xerj/pull/2879) <sub>#2879</sub>
-
-### [taro](https://github.com/NervJS/taro) <sub>· NervJS</sub>
-
-- [Keep request cancellable while reading response bodies](https://github.com/NervJS/taro/pull/19598) <sub>#19598</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
