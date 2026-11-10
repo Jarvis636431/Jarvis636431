@@ -57,12 +57,12 @@ have all been merged; the selection follows submission date, newest first.
 
 ### [taro](https://github.com/NervJS/taro) <sub>· NervJS</sub>
 
+- [Prefer scrollTop in pageScrollTo](https://github.com/NervJS/taro/pull/19622) <sub>#19622</sub>
+- [Report missing page scroll targets](https://github.com/NervJS/taro/pull/19620) <sub>#19620</sub>
+- [Settle interrupted page scrolls](https://github.com/NervJS/taro/pull/19618) <sub>#19618</sub>
+- [Report viewport dimensions in onWindowResize](https://github.com/NervJS/taro/pull/19616) <sub>#19616</sub>
 - [Isolate each chooseLocation call and settle it only once](https://github.com/NervJS/taro/pull/19611) <sub>#19611</sub>
 - [Stop leaking transitionend listeners and breaking animation steps](https://github.com/NervJS/taro/pull/19609) <sub>#19609</sub>
-- [Report a meaningful errMsg when previewImage fails to load an image](https://github.com/NervJS/taro/pull/19607) <sub>#19607</sub>
-- [Correct return type of createPullDownComponent hook](https://github.com/NervJS/taro/pull/19603) <sub>#19603</sub>
-- [Correct framework param type of createRouter/createMultiRouter](https://github.com/NervJS/taro/pull/19601) <sub>#19601</sub>
-- [Call WeChat JS-SDK once in processOpenApi](https://github.com/NervJS/taro/pull/19600) <sub>#19600</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
