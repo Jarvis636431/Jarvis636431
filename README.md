@@ -57,15 +57,12 @@ have all been merged; the selection follows submission date, newest first.
 
 ### [taro](https://github.com/NervJS/taro) <sub>· NervJS</sub>
 
+- [Isolate each chooseLocation call and settle it only once](https://github.com/NervJS/taro/pull/19611) <sub>#19611</sub>
 - [Stop leaking transitionend listeners and breaking animation steps](https://github.com/NervJS/taro/pull/19609) <sub>#19609</sub>
 - [Report a meaningful errMsg when previewImage fails to load an image](https://github.com/NervJS/taro/pull/19607) <sub>#19607</sub>
 - [Correct return type of createPullDownComponent hook](https://github.com/NervJS/taro/pull/19603) <sub>#19603</sub>
 - [Correct framework param type of createRouter/createMultiRouter](https://github.com/NervJS/taro/pull/19601) <sub>#19601</sub>
 - [Call WeChat JS-SDK once in processOpenApi](https://github.com/NervJS/taro/pull/19600) <sub>#19600</sub>
-
-### [agent-foundation](https://github.com/converge-ai-labs/agent-foundation) <sub>· converge-ai-labs</sub>
-
-- [Support English and Chinese in chat usage details](https://github.com/converge-ai-labs/agent-foundation/pull/1388) <sub>#1388</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
