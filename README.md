@@ -57,12 +57,12 @@ have all been merged; the selection follows submission date, newest first.
 
 ### [taro](https://github.com/NervJS/taro) <sub>· NervJS</sub>
 
+- [Clean up media query observer listeners](https://github.com/NervJS/taro/pull/19628) <sub>#19628</sub>
+- [Preserve descendant semantics in selector queries](https://github.com/NervJS/taro/pull/19626) <sub>#19626</sub>
 - [Prefer scrollTop in pageScrollTo](https://github.com/NervJS/taro/pull/19622) <sub>#19622</sub>
 - [Report missing page scroll targets](https://github.com/NervJS/taro/pull/19620) <sub>#19620</sub>
 - [Settle interrupted page scrolls](https://github.com/NervJS/taro/pull/19618) <sub>#19618</sub>
 - [Report viewport dimensions in onWindowResize](https://github.com/NervJS/taro/pull/19616) <sub>#19616</sub>
-- [Isolate each chooseLocation call and settle it only once](https://github.com/NervJS/taro/pull/19611) <sub>#19611</sub>
-- [Stop leaking transitionend listeners and breaking animation steps](https://github.com/NervJS/taro/pull/19609) <sub>#19609</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
