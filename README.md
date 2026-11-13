@@ -59,10 +59,10 @@ have all been merged; the selection follows submission date, newest first.
 
 - [Support getSelectedTextRange](https://github.com/NervJS/taro/pull/19647) <sub>#19647</sub>
 - [Report finite download progress when length is unknown](https://github.com/NervJS/taro/pull/19645) <sub>#19645</sub>
+- [Settle pull-down refresh without a current component](https://github.com/NervJS/taro/pull/19643) <sub>#19643</sub>
 - [Reject HTTP errors in getVideoInfo](https://github.com/NervJS/taro/pull/19641) <sub>#19641</sub>
 - [Settle upload and download setup failures](https://github.com/NervJS/taro/pull/19637) <sub>#19637</sub>
 - [Clean up media query observer listeners](https://github.com/NervJS/taro/pull/19628) <sub>#19628</sub>
-- [Preserve descendant semantics in selector queries](https://github.com/NervJS/taro/pull/19626) <sub>#19626</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
