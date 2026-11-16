@@ -55,14 +55,17 @@ have all been merged; the selection follows submission date, newest first.
 
 <!-- contributions:start -->
 
+### [agent-foundation](https://github.com/converge-ai-labs/agent-foundation) <sub>· converge-ai-labs</sub>
+
+- [Cover language switching integration](https://github.com/converge-ai-labs/agent-foundation/pull/1633) <sub>#1633</sub>
+- [Validate localized catalog messages](https://github.com/converge-ai-labs/agent-foundation/pull/1632) <sub>#1632</sub>
+
 ### [taro](https://github.com/NervJS/taro) <sub>· NervJS</sub>
 
+- [Support creating and revoking buffer URLs](https://github.com/NervJS/taro/pull/19660) <sub>#19660</sub>
 - [Support compressImage for JPEG and static PNG](https://github.com/NervJS/taro/pull/19649) <sub>#19649</sub>
 - [Support getSelectedTextRange](https://github.com/NervJS/taro/pull/19647) <sub>#19647</sub>
 - [Report finite download progress when length is unknown](https://github.com/NervJS/taro/pull/19645) <sub>#19645</sub>
-- [Settle pull-down refresh without a current component](https://github.com/NervJS/taro/pull/19643) <sub>#19643</sub>
-- [Reject HTTP errors in getVideoInfo](https://github.com/NervJS/taro/pull/19641) <sub>#19641</sub>
-- [Expose response headers as objects for file transfers](https://github.com/NervJS/taro/pull/19639) <sub>#19639</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
