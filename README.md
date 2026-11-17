@@ -57,15 +57,15 @@ have all been merged; the selection follows submission date, newest first.
 
 ### [agent-foundation](https://github.com/converge-ai-labs/agent-foundation) <sub>· converge-ai-labs</sub>
 
+- [Enforce translated interface copy](https://github.com/converge-ai-labs/agent-foundation/pull/1634) <sub>#1634</sub>
 - [Cover language switching integration](https://github.com/converge-ai-labs/agent-foundation/pull/1633) <sub>#1633</sub>
 - [Validate localized catalog messages](https://github.com/converge-ai-labs/agent-foundation/pull/1632) <sub>#1632</sub>
 
 ### [taro](https://github.com/NervJS/taro) <sub>· NervJS</sub>
 
+- [支持同步查询视频画中画状态](https://github.com/NervJS/taro/pull/19662) <sub>#19662</sub>
 - [Support creating and revoking buffer URLs](https://github.com/NervJS/taro/pull/19660) <sub>#19660</sub>
-- [Support compressImage for JPEG and static PNG](https://github.com/NervJS/taro/pull/19649) <sub>#19649</sub>
-- [Support getSelectedTextRange](https://github.com/NervJS/taro/pull/19647) <sub>#19647</sub>
-- [Report finite download progress when length is unknown](https://github.com/NervJS/taro/pull/19645) <sub>#19645</sub>
+- [Await mini modifyBuildAssets hook](https://github.com/NervJS/taro/pull/19658) <sub>#19658</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
