@@ -57,12 +57,12 @@ have all been merged; the selection follows submission date, newest first.
 
 ### [agent-foundation](https://github.com/converge-ai-labs/agent-foundation) <sub>· converge-ai-labs</sub>
 
+- [Cover model switch context recovery](https://github.com/converge-ai-labs/agent-foundation/pull/1705) <sub>#1705</sub>
 - [Cover backend-only App packaging](https://github.com/converge-ai-labs/agent-foundation/pull/1691) <sub>#1691</sub>
 - [Fix App authoring guide link](https://github.com/converge-ai-labs/agent-foundation/pull/1685) <sub>#1685</sub>
 - [Fix Service development guide link](https://github.com/converge-ai-labs/agent-foundation/pull/1683) <sub>#1683</sub>
 - [Document VM startup timeout in Chinese](https://github.com/converge-ai-labs/agent-foundation/pull/1681) <sub>#1681</sub>
 - [Sync Chinese Sidekick and startup guidance](https://github.com/converge-ai-labs/agent-foundation/pull/1680) <sub>#1680</sub>
-- [Correct Simplified Chinese connector and chat guidance](https://github.com/converge-ai-labs/agent-foundation/pull/1676) <sub>#1676</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
