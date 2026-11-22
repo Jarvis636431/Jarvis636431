@@ -62,7 +62,10 @@ have all been merged; the selection follows submission date, newest first.
 - [Fix App authoring guide link](https://github.com/converge-ai-labs/agent-foundation/pull/1685) <sub>#1685</sub>
 - [Fix Service development guide link](https://github.com/converge-ai-labs/agent-foundation/pull/1683) <sub>#1683</sub>
 - [Document VM startup timeout in Chinese](https://github.com/converge-ai-labs/agent-foundation/pull/1681) <sub>#1681</sub>
-- [Sync Chinese Sidekick and startup guidance](https://github.com/converge-ai-labs/agent-foundation/pull/1680) <sub>#1680</sub>
+
+### [astryx](https://github.com/meta/astryx) <sub>· meta</sub>
+
+- [Distinguish contributor Node from the CLI minimum](https://github.com/meta/astryx/pull/12612) <sub>#12612</sub>
 
 [Explore all merged contributions →](https://github.com/pulls?q=is%3Apr+is%3Amerged+author%3AJarvis636431+is%3Apublic+-user%3AJarvis636431)
 
