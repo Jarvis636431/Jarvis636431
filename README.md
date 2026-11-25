@@ -57,11 +57,11 @@ have all been merged; the selection follows submission date, newest first.
 
 ### [agent-foundation](https://github.com/converge-ai-labs/agent-foundation) <sub>· converge-ai-labs</sub>
 
+- [Preserve short inputs during context recovery](https://github.com/converge-ai-labs/agent-foundation/pull/1809) <sub>#1809</sub>
 - [Cover model switch context recovery](https://github.com/converge-ai-labs/agent-foundation/pull/1705) <sub>#1705</sub>
 - [Cover backend-only App packaging](https://github.com/converge-ai-labs/agent-foundation/pull/1691) <sub>#1691</sub>
 - [Fix App authoring guide link](https://github.com/converge-ai-labs/agent-foundation/pull/1685) <sub>#1685</sub>
 - [Fix Service development guide link](https://github.com/converge-ai-labs/agent-foundation/pull/1683) <sub>#1683</sub>
-- [Document VM startup timeout in Chinese](https://github.com/converge-ai-labs/agent-foundation/pull/1681) <sub>#1681</sub>
 
 ### [astryx](https://github.com/meta/astryx) <sub>· meta</sub>
 
